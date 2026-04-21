@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# A Playful C# Tutorial
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+简介
 
-## Commands
+## 内容
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 适用人群
 
-## Project layout
+## 特色
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 参考资料
+
+## 备注
+
+<a href="https://github.com/wubzbz/playful-csharp-tutorial">playful-csharp-tutorial</a> © 2024 - 2026 by <a href="https://github.com/wubzbz">wubzbz</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
