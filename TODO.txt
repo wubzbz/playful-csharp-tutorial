@@ -1,0 +1,45 @@
+
+Ch1
+
+DateTime库
+装箱：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/types/boxing-and-unboxing
+BitConverter类：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/types/how-to-convert-a-byte-array-to-an-int +3
+
+Ch2 类和结构
+相等性：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/statements-expressions-operators/equality-comparisons
+https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/statements-expressions-operators/how-to-test-for-reference-equality-identity
+方法：
+重载方法、运算符
+扩展方法、扩展成员https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-and-call-a-custom-extension-method
+https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/how-to-create-a-new-method-for-an-enumeration
+接口：https://learn.microsoft.com/zh-cn/dotnet/csharp/advanced-topics/interface-implementation/default-interface-methods-versions +3
+泛型接口的协变和逆变：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/covariance-contravariance/variance-in-generic-interfaces
+表达式主体：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/statements-expressions-operators/expression-bodied-members
+方法重写：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/versioning-with-the-override-and-new-keywords +3
+
+Ch3 程序结构
+using别名
+
+Ch4 开发
+代码风格
+编译器：https://learn.microsoft.com/zh-cn/dotnet/csharp/roslyn-sdk/
+调试器
+测试框架
+
+Ch4 异步
+
+Ch .NET平台类型
+IEnumerable<T>、迭代器和foreach循环：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/iterators
+IEquatable<T>和自定义相等性：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/statements-expressions-operators/how-to-define-value-equality-for-a-type
+数据结构：List、Stack、Queue
+Ch5 委托和事件
+委托中的协变和逆变
+
+Ch6 特性和反射
+https://learn.microsoft.com/zh-cn/dotnet/csharp/advanced-topics/reflection-and-attributes/
+
+Ch7 LINQ
+表达式树：https://learn.microsoft.com/zh-cn/dotnet/csharp/advanced-topics/interface-implementation/default-interface-methods-versions
+
+Ch8 性能工程
+https://learn.microsoft.com/zh-cn/dotnet/csharp/advanced-topics/performance/
