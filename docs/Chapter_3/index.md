@@ -14,6 +14,7 @@
 - https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/object-oriented/
 - 声明语法
     - 类成员、命名法：https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/coding-style/identifier-names
+    - 方法体是代码块
     - 属性：get、set、init
         - 表达式主体：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/statements-expressions-operators/expression-bodied-members
 - 初始化
@@ -99,6 +100,7 @@ https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/coding-style/coding
 - 文件范围（推荐）和块范围的声明（不推荐）
     - 一个文件只声明一个空间
     - 最好只声明一个类、文件的命名
+    - 命名空间不是代码块，只能声明成员
 - using语句
     - 全局using、GlobalUsings.cs
     - 隐式using
