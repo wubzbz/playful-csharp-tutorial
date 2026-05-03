@@ -4,10 +4,7 @@ site_url: https://wubzbz.github.io/playful-csharp-tutorial
 theme:
   name: material
   features:
-    - navigation.instant
-    - navigation.sections
     - navigation.indexes
-    - navigation.expand
     - navigation.path
     - navigation.prune
     - navigation.top
@@ -37,7 +34,7 @@ theme:
 # 插件：自动章节导航
 plugins:
   - awesome-pages:
-      collapse_single_pages: false
+      collapse_single_pages: true
   - search
 
 markdown_extensions:
@@ -64,5 +61,5 @@ markdown_extensions:
       toc_depth: 3
 
 extra_javascript:
-  # - javascripts/mathjax.js
+  - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
