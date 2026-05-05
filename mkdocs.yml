@@ -19,12 +19,12 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: 切换到深色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: 切换到浅色模式
 
   font:
@@ -58,7 +58,11 @@ markdown_extensions:
   - pymdownx.snippets
   - toc:
       permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
       toc_depth: 3
+ 
 
 extra_javascript:
   - javascripts/mathjax.js
