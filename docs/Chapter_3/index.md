@@ -21,7 +21,7 @@
     - 字段初始值
         - 字段和静态变量自动初始化为**默认值**：default
     - 构造函数
-    - 主构造函数https://learn.microsoft.com/zh-cn/dotnet/csharp/whats-new/tutorials/primary-constructors
+    - 主构造函数：https://learn.microsoft.com/zh-cn/dotnet/csharp/whats-new/tutorials/primary-constructors
     - require
     - readonly
         - 编译时常量constant和运行时常量readonly
@@ -95,8 +95,8 @@ https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/program-structure/
     - csproj文件
 
 ## 命名空间的声明和使用
-https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/program-structure/namespaces
-https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/coding-style/coding-conventions 补充前面的约定
+- https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/program-structure/namespaces
+- https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/coding-style/coding-conventions 补充前面的约定
 - 文件范围（推荐）和块范围的声明（不推荐）
     - 一个文件只声明一个空间
     - 最好只声明一个类、文件的命名
@@ -112,7 +112,7 @@ https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/coding-style/coding
 - 推荐命名法：CompanyName.ProductName.Feature
 
 ## 程序的组织层次
-https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/program-structure/program-organization
+- https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/program-structure/program-organization
 - 5种
 - 访问权限和程序集（推荐internal）
 
@@ -165,8 +165,8 @@ https://learn.microsoft.com/zh-cn/dotnet/csharp/versioning
 # 第7章 LINQ
 
 ## 匿名类型
-https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/anonymous-types
-https://learn.microsoft.com/zh-cn/dotnet/standard/base-types/choosing-between-anonymous-and-tuple
+- https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/anonymous-types
+- https://learn.microsoft.com/zh-cn/dotnet/standard/base-types/choosing-between-anonymous-and-tuple
 
 ## LINQ
 
