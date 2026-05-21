@@ -1,6 +1,0 @@
-
-Ch1
-
-DateTime库
-BitConverter类：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/types/how-to-convert-a-byte-array-to-an-int +3
-System.Random类
