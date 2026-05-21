@@ -1,4 +1,4 @@
-site_name: 我的文档
+site_name: (给人类的)C#古法编程指南
 site_url: https://wubzbz.github.io/playful-csharp-tutorial
 
 theme:
@@ -36,6 +36,8 @@ plugins:
   - awesome-pages:
       collapse_single_pages: true
   - search
+hooks:
+  - hooks/draft_filter.py
 
 markdown_extensions:
   - admonition                 # 卡片 !!! ???
