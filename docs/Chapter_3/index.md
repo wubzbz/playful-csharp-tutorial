@@ -20,6 +20,10 @@ draft: true
     - 方法体是代码块
     - 属性：get、set、init
         - 表达式主体：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/statements-expressions-operators/expression-bodied-members
+        - 使用特性抑制编译器警告
+            - System.Diagnostics.CodeAnalysis相关特性
+            - [NotNullWhen()]
+            - [MemberNotNullWhen(nameof())]
 - 初始化
     - 字段初始值
         - 字段和静态变量自动初始化为**默认值**：default
@@ -37,6 +41,7 @@ draft: true
 - 继承：https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/object-oriented/inheritance
 - 回顾内置类型
 - 装箱：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/types/boxing-and-unboxing
+    - 继承、装箱与类型匹配
 
 ## 多态
 - 多态：https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/object-oriented/polymorphism
