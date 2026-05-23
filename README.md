@@ -1,36 +1,47 @@
-# playful-csharp-tutorial
+# （给人类的）C#古法编程指南
 
-### 简单好玩的C#教程
+> 一个简单、有趣、不劝退的 C# 编程教程。
+
+[📖 在线阅读](https://wubzbz.github.io/playful-csharp-tutorial)　|　[🐙 GitHub](https://github.com/Wubzbz/playful-csharp-tutorial)
 
 ---
 
+## 这是什么？
 
-你好！
+一套**从零开始**的 C# 编程教程。用人话讲清楚每一个概念，拒绝黑话与机翻。
 
-这是一个既简单又有趣的C#语言教程。许多教程遣词造句十分专业、描述抽象，或者默认读者具有相当的相关知识储备（比如计算机组成、操作系统等），对于没有相关基础或者不关心编程以外内容的小白不太友好。所以我正在做一个力求通俗易懂、即学即用的C#教程！
+我们在讲 C#，但我们不是只聊 C# —— 音乐、魔法、烹饪、水浒传……话题随时可能跑偏，但知识一定到位。
 
-这些文档将会告诉你：
+## 快速开始
 
-+ C#是啥
-+ C#怎么用
-+ 用C#整一些小玩意！
+### 在线阅读
 
-> 我们在讲C#， 但我们不是只聊C#！ 所以，如果你发现话题变成了音乐、魔法、烹饪或者别的东西，请别惊讶。
+👉 **[https://wubzbz.github.io/playful-csharp-tutorial](https://wubzbz.github.io/playful-csharp-tutorial)**
 
-读完这个教程，您将对C#有一定的了解，也可以自己动手做一些东西。但这还不够。如果要应对更加复杂的项目，您还需深入学习其他内容。我也在考虑推出更多简易生动的教程。
+### 本地预览
 
-然而，通俗易懂的代价是语言的简洁性和部分内容的准确性。如果您是大佬或有很好基础的学习者，有可能会觉得本教程冗长、事无巨细。推荐您通过[官方文档](https://learn.microsoft.com/en-us/dotnet/csharp/)和其他优秀的教程学习C#。
+```bash
+# 安装依赖
+pip install mkdocs-material mkdocs-awesome-pages
 
-教程内容将陆续发布在本仓库。请留下您对本教程的任何疑问或建议。感谢！
+# 启动本地服务器
+mkdocs serve
+```
 
-此教程主要参考了：
+浏览器打开 `http://127.0.0.1:8000` 即可。
 
-- [C# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
-- [C# language reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)
+## 进度
 
--wubzbz
+本教程**正在持续更新**中。欢迎 Watch 本仓库获取更新通知。
 
-> [!NOTE]
-> 作者在创作过程中使用了人工智能搜集信息，但此教程**不是**人工智能生成文本。作者水平有限，如果您在阅读过程中发现错别字、影响理解的表达、甚至事实错误，请在Issue板块提出，感谢理解。
+## 反馈
 
-<a href="https://github.com/Wubzbz/playful-csharp-tutorial">playful-csharp-tutorial</a> © 2024 - 2026 by <a href="https://github.com/wubzbz">wubzbz</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+发现错别字、表达不清、或事实错误？请在 [Issues](https://github.com/Wubzbz/playful-csharp-tutorial/issues) 提出。感谢！
+
+## 许可证
+
+本教程内容采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可。
+
+---
+
+© 2024 - 2026 [wubzbz](https://github.com/wubzbz)

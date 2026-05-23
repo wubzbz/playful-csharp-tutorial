@@ -1,2 +1,5 @@
 framework.md
 .venv
+__pycache__
+
+.deepseek
