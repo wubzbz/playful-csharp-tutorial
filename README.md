@@ -22,7 +22,7 @@
 
 ```bash
 # 安装依赖
-pip install mkdocs-material mkdocs-awesome-pages
+pip install mkdocs-material mkdocs-awesome-pages-plugin
 
 # 启动本地服务器
 mkdocs serve
