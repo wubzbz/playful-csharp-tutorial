@@ -41,7 +41,9 @@ draft: true
 - 继承：https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/object-oriented/inheritance
 - 回顾内置类型
 - 装箱：https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/types/boxing-and-unboxing
-    - 继承、装箱与类型匹配
+    - 继承、装箱与类型匹配（switch）
+    - 类型模式：https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns#declaration-and-type-patterns
+    - 联合类型
 
 ## 多态
 - 多态：https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/object-oriented/polymorphism
